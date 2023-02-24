@@ -6,3 +6,5 @@
  <img src="readmeImages/login.jpg" width="230" height="100%">
  <h4>Signup UI</h4>
  <img src="readmeImages/signup.jpg" width="230" height="100%">
+ <h4>Home Page UI</h4>
+ <img src="readmeImages/signup.jpg" width="230" height="100%">
